@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BWPodRepository_Example' do
+  pod 'BWPodRepository', :path => '../'
+
+  target 'BWPodRepository_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
