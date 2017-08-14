@@ -7,6 +7,7 @@
 //
 
 #import "BWViewController.h"
+#import "UILabel+BWExtension.h"
 
 @interface BWViewController ()
 
